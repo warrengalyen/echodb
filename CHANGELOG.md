@@ -8,6 +8,12 @@ All notable changes to this project will be documented here.
 - Support different databases like Mysql, MongoDB and etc.
 - Support connect in server and database
 
+## [1.1.0] - 2025-11-02
+
+### Added
+
+- Support --db flag. Used to create backups of multiple databases in one run.
+
 ## [1.0.0] - 2025-10-31
 
 ### Added
